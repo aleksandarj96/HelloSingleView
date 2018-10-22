@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func button(_ sender: Any) {
-        print("hello")
+        print("hello button")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
